@@ -1,6 +1,5 @@
 # BakerySite
 
-Thanks to @Nimish-Dureja-10 for his equal contribution throughout the project.
 
 Before running the project you need to install node on your system.
 This would load the package.json and package-lock.json file in your system.
